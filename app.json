@@ -17,7 +17,7 @@
       "required": false,
       "value": "ＭＺＮ ＫＩＮＧ"
     },
-     "OWNER_NUMBER": {33762171477
+     "OWNER_NUMBER": {330762171477
       "description": "Enter your sudo number with country code here. (e.g.: 94771227821)",
       "required": true,
       "value": "94771227821"
